@@ -1,6 +1,7 @@
 ﻿/*
-	(C) Vlad Hrybok
-	Released under terms of MIT license. 
+*	(C) Vlad Hrybok
+*	Released under terms of MIT license. 
+*	Available at https://github.com/vgribok/VladsOpenSourceBitsAndPieces	
 */
 
 using System;
